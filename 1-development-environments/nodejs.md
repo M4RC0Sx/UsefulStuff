@@ -1,4 +1,4 @@
-# NVM + NPM + NodeJS setup
+# Development Environment - NodeJS
 
 ## Installation
 1. Install NVM from the official repository:
