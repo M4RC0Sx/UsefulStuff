@@ -3,7 +3,7 @@ Repository to save useful stuff about a wide of topics.
 Want to contribute? Feel free!
 
 ## Authors
-- [M4RC0Sx] (https://github.com/M4RC0Sx)
+- [M4RC0Sx](https://github.com/M4RC0Sx)
 
 --------------------
 
